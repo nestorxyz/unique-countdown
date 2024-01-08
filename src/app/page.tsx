@@ -12,7 +12,7 @@ const silk = Black_Ops_One({
 
 const END_DATE = new Date(2024, 4, 19, 0, 0, 0, 0);
 const GOAL = 3000;
-const current = 0;
+const current = 1;
 const TOTAL_WEEKS = 22;
 const GITHUB_LINK = "https://github.com/nestorxyz/unique-countdown";
 
